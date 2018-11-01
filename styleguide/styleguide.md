@@ -1,7 +1,7 @@
 Poiu Style Guides
 ===================
 
-These stylguides are copies from the ([Google Style Guides](https://github.com/google/styleguide))
+These stylguides are copies from the ([Google Style Guides](https://google.github.io/styleguide))
 with some small adjustments for our own projects. When contributing to our
 projects, please follow these style guides.
 
