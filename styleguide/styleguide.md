@@ -1,5 +1,5 @@
 Poiu Style Guides
-===================
+=================
 
 These stylguides are copies from the ([Google Style Guides](https://google.github.io/styleguide))
 with some small adjustments for our own projects. When contributing to our
@@ -15,7 +15,8 @@ See [https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
 
 [cpp]: https://google.github.io/styleguide/cppguide.html
 [objc]: objcguide.md
-[java]: https://hupfdule.github.io/javaguide.html
+[java]: javaguide.html
+[javaold]: https://hupfdule.github.io/javaguide.html
 [py]: https://github.com/google/styleguide/blob/gh-pages/pyguide.md
 [r]: https://google.github.io/styleguide/Rguide.xml
 [sh]: https://google.github.io/styleguide/shell.xml
