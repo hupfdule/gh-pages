@@ -1,6 +1,9 @@
 {% raw %}
 # 8Poiu Java Style Guide
 
+<!-- ts -->
+<!-- te -->
+
 ## 1 Introduction
 
 This document serves as the **complete** definition of Poiu's coding standards
