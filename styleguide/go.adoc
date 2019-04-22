@@ -1,0 +1,35 @@
+Style guide for projects written in Go
+=====================================
+
+Variables
+---------
+
+Do not use the short declaration of multiple variables of the same type,
+but instead define the type for each variable explicitly.
+
+Therefore don't write
+
+[source,go]
+----
+x, y int
+----
+
+but instead
+
+[source,go]
+----
+x int
+y int
+----
+
+Go modules
+----------
+
+Always use go modules. Adhere to the conventions for go modules.
+
+Go projects should be written in a way the they may be compiled with a go
+version that does not support go modules (<1.11).
+
+If there really is a reason to not use go modules, that reason must be
+documented.
+
